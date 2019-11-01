@@ -80,8 +80,9 @@ API First에서는
 
 나는 API First와 같은 API 스펙을 주도로 한 개발 방법에 대해 오랜기간 고민해왔고, 많은 시행착오 끝에 만족스러울만한 개발 프로세스를 만들어 내었다.
 
-이 이후의 글에서는 API First를 실천하기 위해서 겪었던 나의 시행착오와 [OpenAPI (Swagger)](OpenAPI)에서 [gRPC](gRPC)로 가기 까지의 과정, 그리고
+이 이후의 글에서는 API First를 실천하기 위해서 겪었던 나의 시행착오와 [OpenAPI (Swagger)][OpenAPI]에서 [gRPC][gRPC]로 가기 까지의 과정, 그리고
 현재 개발하는데 사용하고 있는 프로세스를 공유해 보고자 한다.
+
 
 [OpenAPI]: https://openapis.org
 [gRPC]: http://grpc.io
